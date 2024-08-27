@@ -1,0 +1,9 @@
+Flask
+flask-talisman
+flask-cors
+tensorflow
+numpy
+joblib
+scikit-learn
+gunicorn
+pandas
